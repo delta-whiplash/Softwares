@@ -11,13 +11,14 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
 - Firefox + patch [VA-API](https://linuxconfig.org/firefox-with-va-api-on-linux) **Navigateur WEB**
 - Opera + patch [VA-API](https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html) **Navigateur WEB**
 - Vivaldi + patch [VA-API](https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html) **Navigateur WEB**
-
+**Ne pas oublier le paquet libva pour la hardware decoding intégrée à chromium**
+libva-vdpau-driver-chromium AUR
 ## **Outils**
 - Krename **Renommer de nombreux fichier avec des occurences**
 - Flameshot **Capture d'écran**
 - Remmina **Client RDP/VNC**
 - Anydesk **Programme de bureau à distance à haute compatibilité**
-
+- Motrix **Gestionnaire de téléchargement torrent**
 ## **Bureautique**
 
 - LibreOffice **Suite office libre compatible avec les fichiers Microsoft Office**
@@ -96,6 +97,7 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
 - Remmina **Client RDP/VNC**
 - Anydesk **Programme de bureau à distance à haute compatibilité**
 - MobaXterm **Client multiprotocole RDP VNC SSH ...**
+- Motrix **Gestionnaire de téléchargement torrent**
 
 ## **Bureautique**
 
@@ -127,8 +129,13 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
 
 - Inkscape + krita + GIMP **Manipulation et retouche photos**
 - Luminar AI **Edition de photo facile**
+-  Adobe Photoshop
+-  Adobe Illustrator
+-  Adobe After Effects
 
 ## **Edition Video**
 
 - MediaInfo (mediainfo-gui) **Info sur les fichier vidéo et audio**
 - Handbrake **Compression video (préférer au CPU)**
+- Xmedirecode **Compression Video (préférer au GPU)**
+- Adobe Premiere Pro
