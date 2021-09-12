@@ -4,6 +4,10 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
 
 # Sur Linux
 
+## **Installation**
+
+[**BTRFS + Timeshift + GRUB **](https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_49/2020-12-04-fr-README.html "BTRFS + Timeshift + GRUB ")
+
 ## **Navigateurs**
 
 - Brave Browser + patch [VA-API](https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html) **Navigateur WEB**
@@ -11,14 +15,17 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
 - Firefox + patch [VA-API](https://linuxconfig.org/firefox-with-va-api-on-linux) **Navigateur WEB**
 - Opera + patch [VA-API](https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html) **Navigateur WEB**
 - Vivaldi + patch [VA-API](https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html) **Navigateur WEB**
-**Ne pas oublier le paquet libva pour la hardware decoding intégrée à chromium**
-libva-vdpau-driver-chromium AUR
+    **Ne pas oublier le paquet libva pour la hardware decoding intégrée à chromium**
+    libva-vdpau-driver-chromium AUR
+
 ## **Outils**
+
 - Krename **Renommer de nombreux fichier avec des occurences**
 - Flameshot **Capture d'écran**
 - Remmina **Client RDP/VNC**
 - Anydesk **Programme de bureau à distance à haute compatibilité**
 - Motrix **Gestionnaire de téléchargement torrent**
+
 ## **Bureautique**
 
 - LibreOffice **Suite office libre compatible avec les fichiers Microsoft Office**
@@ -30,7 +37,7 @@ libva-vdpau-driver-chromium AUR
 - [GameMode](https://wiki.archlinux.org/title/Gamemode) **Augmenter ses performances de 10% en jeux**
 - Heroic Game Launcher **Lanceur Tier pour les jeux Epic Games**
 - Parsec **Programme de bureau à distance haute performance de postes Windows (Hosting bientôt disponible sur Mac ou Linux)**
-- Lutris \*\*Lanceur de jeux universelles sur linux \*\*
+- Lutris **Lanceur de jeux universelles sur linux**
 - PlayOnLinux **Lanceur de logiciel Windows sur linux**
 - Steam **Lanceur de jeux et logiciel**
 - [proton-ge](https://aur.archlinux.org/packages/proton-ge-custom/) **Version non officiel de la couche de compatibilité proton dévellopé par Valve permet d'avoir les futures modification en avance**
@@ -59,6 +66,12 @@ libva-vdpau-driver-chromium AUR
 ## **Tweaks et tools**
 
 [Activation de MultiLib](https://wiki.archlinux.org/title/Official_repositories#multilib)
+nmap
+wifite
+metasploit
+wpscan
+burpsuite
+hydra
 
 ### Drivers AMD
 
@@ -80,6 +93,11 @@ libva-vdpau-driver-chromium AUR
 [GTA V](https://lutris.net/games/grand-theft-auto-v/)
 \[CyberPunk 2077\] [lien téléchargement](https://www4.yggtorrent.li/torrent/jeu-vid%C3%A9o/linux/706752-cyberpunk+2077+v+1+06+gog+linux+wine)
 [lien de téléchargement](https://www4.yggtorrent.li/torrent/jeu-vid%C3%A9o/windows/704425-detroit+become+human+v20200805-mephisto)
+
+### A tester
+
+- ceph storage solutions
+- rook.io
 
 # **Sur Windows**
 
@@ -129,9 +147,9 @@ libva-vdpau-driver-chromium AUR
 
 - Inkscape + krita + GIMP **Manipulation et retouche photos**
 - Luminar AI **Edition de photo facile**
--  Adobe Photoshop
--  Adobe Illustrator
--  Adobe After Effects
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
 
 ## **Edition Video**
 
