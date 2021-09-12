@@ -6,7 +6,7 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
 
 ## **Installation**
 
-[**BTRFS + Timeshift + GRUB **](https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_49/2020-12-04-fr-README.html "BTRFS + Timeshift + GRUB ")
+[**BTRFS + Timeshift + GRUB**](https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_49/2020-12-04-fr-README.html "BTRFS + Timeshift + GRUB ")
 
 ## **Navigateurs**
 
