@@ -19,7 +19,10 @@ Listes des logiciels que j'utilises sur mes machines avec les Tweaks pour améli
     libva-vdpau-driver-chromium AUR
 
 ## **Outils**
-
+- Darling **Couche d'émulation semblable à wine mais pour les applications macOS**
+- prefetch
+- exe-thumbnailer **Permet d'afficher les icones des fichier .exe .lnk et .msi**
+- ventoy-gui
 - Krename **Renommer de nombreux fichier avec des occurences**
 - Flameshot **Capture d'écran**
 - Remmina **Client RDP/VNC**
